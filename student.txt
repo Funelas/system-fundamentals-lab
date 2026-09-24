@@ -1,0 +1,8 @@
+Name: Allan John Funelas
+
+Program: BSCS
+
+Subject: System Fundamentals
+
+
+I am learning Git and GitHub.
